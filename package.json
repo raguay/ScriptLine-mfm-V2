@@ -1,1 +1,19 @@
-{"name":"projectmanager","version":"1.0.0","description":"","main":"ProjectManager.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"","license":"ISC","mfmextension":{"name":"ProjectManager","description":"","type":0,"github":"","main":"ProjectManager.js"}}
+{
+  "name": "scriptline",
+  "version": "1.0.0",
+  "description": "An extension for Modal File Manager to update Scriptline on directory changes.",
+  "main": "ScriptLine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "mfmextension": {
+    "name": "ScriptLine",
+    "description": "An extension for Modal File Manager to update Scriptline on directory changes.",
+    "type": 0,
+    "github": "",
+    "main": "ScriptLine.js"
+  }
+}
